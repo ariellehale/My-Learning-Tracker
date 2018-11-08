@@ -169,18 +169,18 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 * [x] Use some keyboard shortcuts
 * [ ] Write tests for your code
 * [x] Help another web developer with something they’re having trouble with
-* [x] Attend an event about web development
+* [ ] Attend an event about web development
 * [x] Follow developers you admire on social media
 * [ ] Read a book about coding
 * [x] Open your browser console
-* [x] Get data from an API
+* [ ] Get data from an API
 * [ ] Hide API keys from the public
-* [x] Post a question on Stack Overflow
+* [ ] Post a question on Stack Overflow
 * [x] Push code to GitHub or GitLab or BitBucket
 * [ ] Speak about something web development-related at an event
-* [x] Complete a technical interview
+* [ ] Complete a technical interview
 * [ ] Participate in a hackathon
-* [x] Deploy a project
+* [ ] Deploy a project
 * [ ] Ship your project to a store
 * [ ] Contribute to open source
 * [ ] Get paid to code
@@ -190,13 +190,13 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 
 If you find this useful for your own needs you are welcome to fork a copy, customise it or even give it a star.
 
-**You can [follow me on Twitter](https://twitter.com/Syknapse "@Syknapse") or [get in touch](https://syknapse.github.io/Syk-Houdeib/#contact "My contact section | Portfolio")**
+**You can [follow me on Twitter](https://twitter.com/nerdnomadmom "@NerdNomadMom")**
 
 ----
 
 ### Acknowledgments
 
-This has been partly inspired by [Shovan Chatterjee](https://twitter.com/shovan_ch) and his wonderful [Full Stack Web Developer Path](https://github.com/shovanch/fullstack-web-developer-path) project. And of course by [Alexander Kallaway's](https://twitter.com/ka11away) very motivational [#100DaysOfCode challenge](https://github.com/Kallaway/100-days-of-code) and the great and supportive community around it.
+This has inspired by, and copied from, [Syk Houdeib](https://github.com/thoothie/My-Learning-Tracker/blob/master/README.md), [Shovan Chatterjee](https://twitter.com/shovan_ch), and his wonderful [Full Stack Web Developer Path](https://github.com/shovanch/fullstack-web-developer-path) project. And of course by [Alexander Kallaway's](https://twitter.com/ka11away) very motivational [#100DaysOfCode challenge](https://github.com/Kallaway/100-days-of-code) and the great and supportive community around it.
 
 ### License
 
