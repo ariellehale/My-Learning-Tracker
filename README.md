@@ -21,21 +21,21 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**Mobile first**                  | ![done][done]     |               |               |                  |                |                 
 |**Progressive Enhancement**       |                   |               |               |                  |                |    
 |**Css Grid & Flex-box**           | ![done][done]     |               |               |                  |                |                
-|**GitHub**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Bootstrap**                     | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**jQuery**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Publishing website**            | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Git/Git bash**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Command line**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Markdown**                      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**Node.js**                       | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**NPM**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Open Source Contribution**      | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**React**                         | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Angular 4**                     | ![done][done]     |               |               |                  |                |                 |
-|**Task runners Gulp/Grunt**       | ![done][done]     |               |               |                  |                |                 |
-|**NPM scripts**                   | ![done][done]     |               |               |                  |                |                 |
-|**AJAX**                          | ![done][done]     |               |               |                  |                |          .      |
+|**GitHub**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 
+|**Bootstrap**                     | ![done][done]     |               |               |                  |                |                 
+|**jQuery**                        |                   |               |               |                  |                |                 
+|**Publishing website**            | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 
+|**Git/Git bash**                  | ![done][done]     | ![done][done] |               |                  |                |                  
+|**Command line**                  | ![done][done]     | ![done][done] |               |                  |                |                  
+|**Markdown**                      |                   |               |               |                  |                |                 
+|**Node.js**                       |                   |               |               |                  |                |                  
+|**NPM**                           |                   |               |               |                  |                |                  
+|**Open Source Contribution**      | ![done][done]     |               |               |                  |                |                 
+|**React**                         |                   |               |               |                  |                |                 
+|**Angular 4**                     |                   |               |               |                  |                |                  
+|**Task runners Gulp/Grunt**       |                   |               |               |                  |                |                 
+|**NPM scripts**                   |                   |               |               |                  |                |                  
+|**AJAX**                          |                   |               |               |                  |                |           .      
 
 ----
 
@@ -49,21 +49,21 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 |            Status           |   Year   | Course                                                          |                Tutor                        |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![Completed][Completed]     | Feb 2018 | [The Beginner's Guide to Reactjs]                               | [Kent C Dodds] - [egghead.io]               |
-| ![Completed][Completed]     | Jan 2018 | [Google Developer Challenge Scholarship] - Web Developer        | [Udacity]                                   |
-| ![Completed][Completed]     | 2017     | [Workflow Tools for Web Developers]                             | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017     | [Learning Git and GitHub]                                       | [Ray Villalobos] - [Lynda.com]              |
-| ![Completed][Completed]     | 2017     | [CSS Essential Training 3]                                      | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017     | [CSS Essential Training 2]                                      | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017     | [Getting Your Website Online]                                   | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017     | [Learn Enough Command Line to Be Dangerous]                     | [Michael Hartl]                             |
-| ![Completed][Completed]     | 2017     | [Basic Front End Development Projects]                          | [Free Code Camp]                            |
-| ![Completed][Completed]     | 2017     | [The Web Developer Bootcamp - Frond End]                        | Colt Steele - [Udemy]                       |
-| ![In Progress][In Progress] |          | [Front-End Web Developer Nanodegree]                            | [Udacity] - Google Scholarship              |
-| ![In Progress][In Progress] |          | [JavaScript and React for Developers]                           | [Cassidy Williams] - [Udemy]                |
-| ![In Progress][In Progress] |          | [Front End Development]                                         | [Free Code Camp]                            |
-| ![In Progress][In Progress] |          | [JavaScript30]                                                  | [Wes Bos]                                   |
-| ![In Progress][In Progress] |          | Read [JavaScript & jQuery]                                      | Jon Duckett                                 |
+| ![Soon][Soon]               |          | [The Beginner's Guide to Reactjs]                               | [Kent C Dodds] - [egghead.io]               |
+| ![Soon][Soon]               |          | [Google Developer Challenge Scholarship] - Web Developer        | [Udacity]                                   |
+| ![Soon][Soon]               |          | [Workflow Tools for Web Developers]                             | [Christina Truong] - [Lynda.com]            |
+| ![Soon][Soon]               |          | [Learning Git and GitHub]                                       | [Ray Villalobos] - [Lynda.com]              |
+| ![Soon][Soon]               |          | [CSS Essential Training 3]                                      | [Christina Truong] - [Lynda.com]            |
+| ![Soon][Soon]               |          | [CSS Essential Training 2]                                      | [Christina Truong] - [Lynda.com]            |
+| ![Soon][Soon]               |          | [Getting Your Website Online]                                   | [Christina Truong] - [Lynda.com]            |
+| ![Soon][Soon]               |          | [Learn Enough Command Line to Be Dangerous]                     | [Michael Hartl]                             |
+| ![Soon][Soon]               |          | [Basic Front End Development Projects]                          | [Free Code Camp]                            |
+| ![Soon][Soon]               |          | [The Web Developer Bootcamp - Frond End]                        | Colt Steele - [Udemy]                       |
+| ![Soon][Soon]               |          | [Front-End Web Developer Nanodegree]                            | [Udacity] - Google Scholarship              |
+| ![Soon][Soon]               |          | [JavaScript and React for Developers]                           | [Cassidy Williams] - [Udemy]                |
+| ![Soon][Soon]               |          | [Front End Development]                                         | [Free Code Camp]                            |
+| ![Soon][Soon]               |          | [JavaScript30]                                                  | [Wes Bos]                                   |
+| ![Soon][Soon]               |          | Read [JavaScript & jQuery]                                      | Jon Duckett                                 |
 | ![Soon][Soon]               |          | Read [Eloquent JavaScript]                                      | [Marijn Haverbeke]                          |
 | ![Soon][Soon]               |          | Read JavaScript: The Good Parts                                 | Douglas Crockford                           |
 | ![Soon][Soon]               |          | Read [You Don't know JavaScript]                                | Kyle Simpson                                |
