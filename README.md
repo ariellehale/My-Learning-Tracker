@@ -12,17 +12,17 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 |               Skill              | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome    |
 |:--------------------------------:|:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
-|**HTML5**                         | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**CSS3**                          | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**JavaScript**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**ES6**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Website Building**              | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Responsive design**             | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Mobile first**                  | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Progressive Enhancement**       | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Css Grid & Flex-box**           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**GitHub**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Bootstrap**                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**HTML5**                         | ![done][done]     | ![done][done] |               |                  |                |    
+|**CSS3**                          | ![done][done]     | ![done][done] |               |                  |                |                 
+|**JavaScript**                    | ![done][done]     | ![done][done] |               |                  |                |               
+|**ES6**                           | ![done][done]     |               |               |                  |                |                 
+|**Website Building**              | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 
+|**Responsive design**             | ![done][done]     |               |               |                  |                |                 
+|**Mobile first**                  | ![done][done]     |               |               |                  |                |                 
+|**Progressive Enhancement**       |                   |               |               |                  |                |    
+|**Css Grid & Flex-box**           | ![done][done]     |               |               |                  |                |                
+|**GitHub**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Bootstrap**                     | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**jQuery**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Publishing website**            | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Git/Git bash**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
