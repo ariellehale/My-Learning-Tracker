@@ -14,25 +14,25 @@ A complete log of my data sciences skills, learning, resources, highlights, inte
 |:--------------------------------:|:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
 |**Python**                         | ![done][done]     | ![done][done] |               |                  |                |    
 |**SQL**                          | ![done][done]     | ![done][done] |               |                  |                |                 
-|**Hadoop**                    | ![done][done]     | ![done][done] |               |                  |                |               
-|**Machine Learning**                           | ![done][done]     |               |               |                  |                |                 
-|**Artificial Intelligence**              | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 
+|**Hadoop**                    |      |  |               |                  |                |               
+|**Machine Learning**                           |      |               |               |                  |                |                 
+|**Artificial Intelligence**              |      |  |  |                  |                |                 
 |**Data Visualization**             | ![done][done]     |               |               |                  |                |                 
 |**Deep Learning**                  | ![done][done]     |               |               |                  |                |                 
 |**R**       |                   |               |               |                  |                |    
 |**Scala**           | ![done][done]     |               |               |                  |                |                
 |**Statistics**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 
 |**Analytics**                     | ![done][done]     |               |               |                  |                |                 
-|**jQuery**                        |                   |               |               |                  |                |                 
-|**Publishing website**            | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 
-|**Git/Git bash**                  | ![done][done]     | ![done][done] |               |                  |                |                  
-|**Command line**                  | ![done][done]     | ![done][done] |               |                  |                |                  
-|**Markdown**                      |                   |               |               |                  |                |                 
-|**Node.js**                       |                   |               |               |                  |                |                  
-|**NPM**                           |                   |               |               |                  |                |                  
-|**Open Source Contribution**      | ![done][done]     |               |               |                  |                |                 
-|**React**                         |                   |               |               |                  |                |                 
-|**Angular 4**                     |                   |               |               |                  |                |                  
+|**Excel/Google Sheets**                        |                   |               |               |                  |                |                 
+|**Project Management**            | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 
+|**Product Management**                  | ![done][done]     | ![done][done] |               |                  |                |                  
+|**Jupyter Notebooks**                  | ![done][done]     | ![done][done] |               |                  |                |                  
+|**Data Wrangling**                      |                   |               |               |                  |                |                 
+|**Tableau**                       |                   |               |               |                  |                |                  
+|**Adobe Spark**                           |                   |               |               |                  |                |                  
+|**Data Analysis**      | ![done][done]     |               |               |                  |                |                 
+|**Testing**                         |                   |               |               |                  |                |                 
+|**MongoDB**                     |                   |               |               |                  |                |                  
 |**Task runners Gulp/Grunt**       |                   |               |               |                  |                |                 
 |**NPM scripts**                   |                   |               |               |                  |                |                  
 |**AJAX**                          |                   |               |               |                  |                |           .      
