@@ -13,29 +13,25 @@ A complete log of my data sciences skills, learning, resources, highlights, inte
 |               Skill              | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome    |
 |:--------------------------------:|:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
 |**Python**                         | ![done][done]     | ![done][done] |               |                  |                |    
-|**SQL**                          | ![done][done]     | ![done][done] |               |                  |                |                 
-|**Hadoop**                    |      |  |               |                  |                |               
-|**Machine Learning**                           |      |               |               |                  |                |                 
-|**Artificial Intelligence**              |      |  |  |                  |                |                 
-|**Data Visualization**             | ![done][done]     |               |               |                  |                |                 
-|**Deep Learning**                  | ![done][done]     |               |               |                  |                |                 
-|**R**       |                   |               |               |                  |                |    
-|**Scala**           | ![done][done]     |               |               |                  |                |                
-|**Statistics**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 
-|**Analytics**                     | ![done][done]     |               |               |                  |                |                 
-|**Excel/Google Sheets**                        |                   |               |               |                  |                |                 
-|**Project Management**            | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 
-|**Product Management**                  | ![done][done]     | ![done][done] |               |                  |                |                  
-|**Jupyter Notebooks**                  | ![done][done]     | ![done][done] |               |                  |                |                  
-|**Data Wrangling**                      |                   |               |               |                  |                |                 
-|**Tableau**                       |                   |               |               |                  |                |                  
-|**Adobe Spark**                           |                   |               |               |                  |                |                  
-|**Data Analysis**      | ![done][done]     |               |               |                  |                |                 
-|**Testing**                         |                   |               |               |                  |                |                 
-|**MongoDB**                     |                   |               |               |                  |                |                  
-|**Task runners Gulp/Grunt**       |                   |               |               |                  |                |                 
-|**NPM scripts**                   |                   |               |               |                  |                |                  
-|**AJAX**                          |                   |               |               |                  |                |           .      
+|**SQL**                            | ![done][done]     | ![done][done] |               |                  |                |                 
+|**Hadoop**                         |                   |               |               |                  |                |               
+|**Machine Learning**               |                   |               |               |                  |                |                 
+|**Artificial Intelligence**        |                   |               |               |                  |                | 
+|**Data Visualization**             |                   |               |               |                  |                | 
+|**Deep Learning**                  |                   |               |               |                  |                | 
+|**R**                              |                   |               |               |                  |                | 
+|**Scala**                          |                   |               |               |                  |                | 
+|**Statistics**                     | ![done][done]     | ![done][done] |               |                  |                | 
+|**Analytics**                      |                   |               |               |                  |                | |**Excel/Google Sheets**            | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |
+|**Project Management**             | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                
+|**Product Management**             | ![done][done]     | ![done][done] | ![done][done] |                  |                |       
+|**Jupyter Notebooks**              | ![done][done]     |               |               |                  |                | 
+|**Data Wrangling**                 |                   |               |               |                  |                |    
+|**Tableau**                        |                   |               |               |                  |                | 
+|**Adobe Spark**                    |                   |               |               |                  |                | 
+|**Data Analysis**                  | ![done][done]     | ![done][done] |               |                  |                | 
+|**Testing**                        |                   |               |               |                  |                | 
+|**MongoDB**                        |                   |               |               |                  |                |                
 
 ----
 
