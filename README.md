@@ -1,8 +1,8 @@
 # My Learning Tracker 
 
-A complete log of my web development skills, learning, resources, highlights, interests, and everything to do with my learning. It's a way to keep track, organise, and share my learning.
+A complete log of my data sciences skills, learning, resources, highlights, interests, and everything to do with my learning. It's a way to keep track, organise, and share my learning.
 
-[For my full portfolio click here](https://github.com/thoothie "https://github.com/thoothie") || [For my learning log click here](https://github.com/thoothie/My-Learning-Tracker/blob/master/README.md "Regular logs of my learning with links, reflections, and information about my learning process")
+[For my full portfolio click here](https://github.com/ariellehale "https://github.com/ariellehale") || [For my learning log click here](https://github.com/ariellehale/My-Learning-Tracker/blob/master/README.md "Regular logs of my learning with links, reflections, and information about my learning process")
 
 ----
 
@@ -12,17 +12,17 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 |               Skill              | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome    |
 |:--------------------------------:|:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
-|**HTML5**                         | ![done][done]     | ![done][done] |               |                  |                |    
-|**CSS3**                          | ![done][done]     | ![done][done] |               |                  |                |                 
-|**JavaScript**                    | ![done][done]     | ![done][done] |               |                  |                |               
-|**ES6**                           | ![done][done]     |               |               |                  |                |                 
-|**Website Building**              | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 
-|**Responsive design**             | ![done][done]     |               |               |                  |                |                 
-|**Mobile first**                  | ![done][done]     |               |               |                  |                |                 
-|**Progressive Enhancement**       |                   |               |               |                  |                |    
-|**Css Grid & Flex-box**           | ![done][done]     |               |               |                  |                |                
-|**GitHub**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 
-|**Bootstrap**                     | ![done][done]     |               |               |                  |                |                 
+|**Python**                         | ![done][done]     | ![done][done] |               |                  |                |    
+|**SQL**                          | ![done][done]     | ![done][done] |               |                  |                |                 
+|**Hadoop**                    | ![done][done]     | ![done][done] |               |                  |                |               
+|**Machine Learning**                           | ![done][done]     |               |               |                  |                |                 
+|**Artificial Intelligence**              | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 
+|**Data Visualization**             | ![done][done]     |               |               |                  |                |                 
+|**Deep Learning**                  | ![done][done]     |               |               |                  |                |                 
+|**R**       |                   |               |               |                  |                |    
+|**Scala**           | ![done][done]     |               |               |                  |                |                
+|**Statistics**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 
+|**Analytics**                     | ![done][done]     |               |               |                  |                |                 
 |**jQuery**                        |                   |               |               |                  |                |                 
 |**Publishing website**            | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 
 |**Git/Git bash**                  | ![done][done]     | ![done][done] |               |                  |                |                  
